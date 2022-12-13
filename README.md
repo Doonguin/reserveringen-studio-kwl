@@ -38,7 +38,7 @@ Nice to have:
 ## De fases
 Fase 1: (research)
 We doen onderzoek naar wat voor software er is en wat de voor- en nadelen zijn van deze software.
- Ook bedenken hoe we dit project kunnen tackelen.
+Ook bedenken hoe we dit project kunnen tackelen.
 
 Fase 2: (toepassing)
 De informatie uit fase 1 aan het licht brengen bij de opdracht gever en tot een conclusie komen wat de beste oplossing is.
