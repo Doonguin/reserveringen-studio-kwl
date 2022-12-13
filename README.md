@@ -37,8 +37,14 @@ Nice to have:
 
 ## De fases
 Fase 1: (research)
-    We doen onderzoek naar wat voor software er is en wat de voor- en nadelen zijn van deze software.
-    Ook bedenken hoe we dit project kunnen tackelen.
+We doen onderzoek naar wat voor software er is en wat de voor- en nadelen zijn van deze software.
+ Ook bedenken hoe we dit project kunnen tackelen.
 
 Fase 2: (toepassing)
-    De informatie uit fase 1 aan het licht brengen bij de opdracht gever en tot een conclusie komen wat de beste oplossing is.
+De informatie uit fase 1 aan het licht brengen bij de opdracht gever en tot een conclusie komen wat de beste oplossing is.
+
+## Oplossingen
+Uit de research die wij hebben gedaan is gebleken dat de volgende oplossingen de beste zijn:
+- Website schrijven voor het uitlenen
+- cheqroom (https://bit.ly/3Wb7v7N) (Voorkomt dubbel boeken, kan een demo aanvragen, heeft ook een app, 1 week gratis proberen, abonnement vanaf $90 (€85.43) per maand)
+- lendItem (https://lenditems.com/) (kan een demo aanvragen, heeft een gratis tier met maximaal 10x lenen per maand, duurste tier is $50 (€47.46) per maand met 1500x lenen per maand)
