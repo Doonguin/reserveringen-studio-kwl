@@ -67,3 +67,4 @@ We hebben beide lendItem en Cheqroom getest, de resultaten zijn als volgt:
 | Notificatie voor te laat | Nee | Ja |
 | Meerdere categorieen voor apparatuur | Nee | Ja |
 | Voldoet aan de gestelde eisen | Nee | Ja |
+| Betaalbare subscriptie | Ja | Nee |
