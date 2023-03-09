@@ -54,3 +54,9 @@ Uit de research die wij hebben gedaan is gebleken dat de volgende oplossingen de
 - Website schrijven voor het uitlenen
 - cheqroom (https://bit.ly/3Wb7v7N) (Voorkomt dubbel boeken, kan een demo aanvragen, heeft ook een app, 1 week gratis proberen, abonnement vanaf $90 (€85.43) per maand)
 - lendItem (https://lenditems.com/) (kan een demo aanvragen, heeft een gratis tier met maximaal 10x lenen per maand, duurste tier is $50 (€47.46) per maand met 1500x lenen per maand)
+
+## Software testen
+We hebben beide lendItem en Cheqroom getest, de resultaten zijn als volgt:
+| Feature | lendItem | Cheqroom |
+| ------- | -------- | -------- |
+| Gebruiksvriendelijke UI | Nee | Ja |
