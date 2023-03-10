@@ -68,3 +68,12 @@ We hebben beide lendItem en Cheqroom getest, de resultaten zijn als volgt:
 | Meerdere categorieen voor apparatuur | Nee | Ja |
 | Voldoet aan de gestelde eisen | Nee | Ja |
 | Goedkoop abbonement | Ja | Nee |
+
+## De conclusie van de software testen
+lendItem:
+Van lendItem vonden wij beide eigenlijk dat het niet heeft wat je nodig hebt.
+Het is namelijk meer voor boeken uitlenen en minder voor echte apparatuur.
+De UI is ook niet erg user friendly en lastig te begrijpen waardoor 
+de software moeilijk op te pakken is en ook lastig te onderhouden voor toekomstige groepen.
+
+Cheqroom:
