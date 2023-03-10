@@ -73,7 +73,12 @@ We hebben beide lendItem en Cheqroom getest, de resultaten zijn als volgt:
 **lendItem:**  
 Van lendItem vonden wij beide eigenlijk dat het niet heeft wat je nodig hebt.
 Het is namelijk meer voor boeken uitlenen en minder voor echte apparatuur.
-De UI is ook niet erg user friendly en lastig te begrijpen waardoor 
-de software moeilijk op te pakken is en ook lastig te onderhouden voor toekomstige groepen.
+De UI is ook niet erg user friendly en lastig te begrijpen waardoor.
+De software moeilijk op te pakken is en ook lastig te onderhouden voor toekomstige groepen.
 
 **Cheqroom:**  
+Cheqroom lijkt de betere optie tussen de twee,
+Het is geschikt voor allerlij soorten apparatuur/spullen, je kan handmatig de apparatuurs naam en fabrikant instellen.
+De User Interface ziet er modern uit, en heeft handige funcies zoals automatisch een foto pakken van de apparatuur die je wil uitlenen, accounts maken voor contacten/collega's en makkelijk een item dupliceren in verband met als je meerdere van de zelfde item heb.
+De software is wat makkelijker op te pakken en minder moeilijk te onderhouden voor de toekomst.
+Het abbonement is wel wat duurder vergelijken met lendItem.
