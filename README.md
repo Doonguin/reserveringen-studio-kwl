@@ -35,11 +35,11 @@ Nice to have:
 - Email als verificatie wat je hebt geleend
 - Notificatie als je te laat bent met terugbrengen
 
-## Planning
+<!-- ## Planning
 Week 12 dec - 18 dec: Research doen naar software en andere oplossingen  
 Week 19 dec - 25 dec: Resultaten van de research aan het licht brengen bij opdracht gever  
 Week 26 dec - 1 jan: Kerst vakantie  
-Week 2 jan - 8 jan: Kerst vakantie  
+Week 2 jan - 8 jan: Kerst vakantie  -->
 
 ## De fases
 Fase 1: (research)  
