@@ -59,9 +59,10 @@ Uit de research die wij hebben gedaan is gebleken dat de volgende oplossingen de
 
 ## Software testen
 We hebben beide lendItem en Cheqroom getest, de resultaten zijn als volgt:
-| Feature | lendItems | Cheqroom | itemit | EZOfficeInventory
-| ------- | -------- | -------- | -------- |
-| Gebruiksvriendelijke UI | Nee | Ja | Ja | 
+
+| Feature | lendItems | Cheqroom | itemit | EZOfficeInventory |
+| ------- | -------- | -------- | -------- | -------- |
+| Gebruiksvriendelijke UI | Nee | Ja | Ja | Ja |
 | Hufter proef | Ja | Ja | Ja | Ja |
 | Goed beveiligd | Ja | Ja | Ja | Ja |
 | Makkelijk onderhoud (ook voor toekomstige groepen) | Nee | Ja | Ja | Nee |
