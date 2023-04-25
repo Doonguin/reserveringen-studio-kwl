@@ -65,7 +65,7 @@ We hebben beide lendItem en Cheqroom getest, de resultaten zijn als volgt:
 | Gebruiksvriendelijke UI | Nee | Ja | Ja | Ja |
 | Hufter proef | Ja | Ja | Ja | Ja |
 | Goed beveiligd | Ja | Ja | Ja | Ja |
-| Makkelijk onderhoud (ook voor toekomstige groepen) | Nee | Ja | Ja | Nee |
+| Makkelijk onderhoud (ook voor toekomstige groepen) | Nee | Ja | Ja | ~ |
 | Email bevestiging van uitlenen | Nee | Ja | Ja | Ja | 
 | Notificatie voor te laat | Nee | Ja | Ja | Ja |
 | Meerdere categorieen voor apparatuur | Nee | Ja | Ja | Ja |
