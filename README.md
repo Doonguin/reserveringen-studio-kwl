@@ -55,21 +55,22 @@ Uit de research die wij hebben gedaan is gebleken dat de volgende oplossingen de
 - cheqroom (https://bit.ly/3Wb7v7N) (Voorkomt dubbel boeken, kan een demo aanvragen, heeft ook een app, 1 week gratis uitproberen, abonnement vanaf $90 (~€85.43) per maand)
 - lendItems (https://lenditems.com/) (kan een demo aanvragen, heeft een gratis tier met maximaal 10x lenen per maand, duurste tier is $50 (~€47.46) per maand met 1500x lenen per maand)
 - itemit(https://itemit.com/) (kan een demo aanvragen, 2 weken gratis uitproberen, heeft een gratis tier met maximaal 500 items maar is alleen voor een "personele workspace", goedkoopste tier is £249 (~€281.38) per gebruiker per jaar (~€23.44 per maand) tot en met 3 gebruikers, duurste tier is "vanaf" £2999 (~€3,389.17) per jaar (~€282.43 per maand)
+- ezofficeinventory (https://www.ezofficeinventory.com/) (kan een demo aanvragen, 15 dagen gratis uitproberen, prijs word bepaalt met hoeveel items je wilt uitlenen)
 
 ## Software testen
 We hebben beide lendItem en Cheqroom getest, de resultaten zijn als volgt:
-| Feature | lendItems | Cheqroom | itemit
+| Feature | lendItems | Cheqroom | itemit | EZOfficeInventory
 | ------- | -------- | -------- | -------- |
-| Gebruiksvriendelijke UI | Nee | Ja | Ja 
-| Hufter proef | Ja | Ja | Ja |
-| Goed beveiligd | Ja | Ja | Ja |
-| Makkelijk onderhoud (ook voor toekomstige groepen) | Nee | Ja | Ja |
-| Email bevestiging van uitlenen | Nee | Ja | Ja |
-| Notificatie voor te laat | Nee | Ja | Ja |
-| Meerdere categorieen voor apparatuur | Nee | Ja | Ja |
-| Voldoet aan de gestelde eisen | Nee | Ja | Ja |
-| Goedkoop abbonement | Ja | Nee | ~ |
-| Heeft gratis tier | Ja | Nee | Ja |
+| Gebruiksvriendelijke UI | Nee | Ja | Ja | 
+| Hufter proef | Ja | Ja | Ja | Ja |
+| Goed beveiligd | Ja | Ja | Ja | Ja |
+| Makkelijk onderhoud (ook voor toekomstige groepen) | Nee | Ja | Ja | Nee |
+| Email bevestiging van uitlenen | Nee | Ja | Ja | Ja | 
+| Notificatie voor te laat | Nee | Ja | Ja | Ja |
+| Meerdere categorieen voor apparatuur | Nee | Ja | Ja | Ja |
+| Voldoet aan de gestelde eisen | Nee | Ja | Ja | Ja |
+| Goedkoop abbonement | Ja | Nee | ~ | Ja |
+| Heeft gratis tier | Ja | Nee | Ja | Nee |
 
 ## De conclusie van de software testen
 **lendItems:**  
@@ -91,3 +92,9 @@ Ook al heeft het een gratis tier en kan je een 2 weken gratis proefversie aanvra
 De User Interface is heel erg minimalistisch waardoor het makkelijk is om rond de website te browser. Je kan handmatig foto's en serienummers voor producten toevoegen en vaststellen op welke locatie een product is (ivm vondellaan en koningin wilhelminalaan).
 De software is best makkelijk op te pakken en minder moeilijk te onderhouden voor de toekomst.
 De prijzen van de abbonementen kan heel wat duurder zijn vergelijken met de rest (ligt aan welk abbonement er word gekozen)
+
+**EZOfficeInventory:**
+EZOfficeInventory is zwaar complex vergelijken met de andere websites die we hier hebben onderzocht.
+De User Interface is wel iets waar je aan zou moeten wennen maar heeft wel veel meer functies. Er worden ook al een soort start gemaakt als je een account maakt waar  bijna alle functies worden gebruikt, Bijvoorbeeld dat er al heel wat items bestaan en ook worden uitgeleend aan diverse mensen binnen het bedrijf.
+De software is wel wat moeilojker om op te pakken en te onderhouden voor toekomstige groepen door de User Interface.
+De prijzen van de abbonementen worden bepaalt op hoeveel maximale items u wilt gebruiken, Het minimum is 250 items.
